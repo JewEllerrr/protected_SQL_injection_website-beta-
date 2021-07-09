@@ -1,0 +1,63 @@
+[09-Dec-2020 03:16:06 Europe/Moscow] Wed, 09 Dec 20 03:16:06 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[09-Dec-2020 15:02:31 Europe/Moscow] Wed, 09 Dec 20 15:02:31 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[09-Dec-2020 15:03:02 Europe/Moscow] Wed, 09 Dec 20 15:03:02 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[09-Dec-2020 15:03:02 Europe/Moscow] Wed, 09 Dec 20 15:03:02 +0300 Function: editRoomerByStaff User IP: 127.0.0.1The request failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '79992366265' for key 'roomer.phone'
+[09-Dec-2020 15:05:23 Europe/Moscow] Wed, 09 Dec 20 15:05:23 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[09-Dec-2020 15:05:23 Europe/Moscow] Wed, 09 Dec 20 15:05:23 +0300 Function: editRoomerByStaff User IP: 127.0.0.1The request failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '79992366265' for key 'roomer.phone'
+[09-Dec-2020 15:05:27 Europe/Moscow] Wed, 09 Dec 20 15:05:27 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[09-Dec-2020 15:05:39 Europe/Moscow] Wed, 09 Dec 20 15:05:39 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[09-Dec-2020 15:05:39 Europe/Moscow] Wed, 09 Dec 20 15:05:39 +0300 Function: editRoomerByStaff User IP: 127.0.0.1The request failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '88888831232' for key 'roomer.phone'
+[10-Dec-2020 00:30:27 Europe/Moscow] Thu, 10 Dec 20 00:30:27 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:30:36 Europe/Moscow] Thu, 10 Dec 20 00:30:36 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:30:48 Europe/Moscow] Thu, 10 Dec 20 00:30:48 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:30:50 Europe/Moscow] Thu, 10 Dec 20 00:30:50 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:30:53 Europe/Moscow] Thu, 10 Dec 20 00:30:53 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:31:24 Europe/Moscow] Thu, 10 Dec 20 00:31:24 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:32:18 Europe/Moscow] Thu, 10 Dec 20 00:32:18 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:32:45 Europe/Moscow] Thu, 10 Dec 20 00:32:45 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:32:57 Europe/Moscow] Thu, 10 Dec 20 00:32:57 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:33:09 Europe/Moscow] Thu, 10 Dec 20 00:33:09 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:33:19 Europe/Moscow] Thu, 10 Dec 20 00:33:19 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:34:24 Europe/Moscow] Thu, 10 Dec 20 00:34:24 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:34:53 Europe/Moscow] Thu, 10 Dec 20 00:34:53 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:35:29 Europe/Moscow] Thu, 10 Dec 20 00:35:29 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:35:30 Europe/Moscow] Thu, 10 Dec 20 00:35:30 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:35:40 Europe/Moscow] Thu, 10 Dec 20 00:35:40 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:35:50 Europe/Moscow] Thu, 10 Dec 20 00:35:50 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:35:54 Europe/Moscow] Thu, 10 Dec 20 00:35:54 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:38:42 Europe/Moscow] Thu, 10 Dec 20 00:38:42 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:39:57 Europe/Moscow] Thu, 10 Dec 20 00:39:57 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:40:24 Europe/Moscow] Thu, 10 Dec 20 00:40:24 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:40:37 Europe/Moscow] Thu, 10 Dec 20 00:40:37 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:40:54 Europe/Moscow] Thu, 10 Dec 20 00:40:54 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:41:03 Europe/Moscow] Thu, 10 Dec 20 00:41:03 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:41:16 Europe/Moscow] Thu, 10 Dec 20 00:41:16 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:41:19 Europe/Moscow] Thu, 10 Dec 20 00:41:19 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 00:41:29 Europe/Moscow] Thu, 10 Dec 20 00:41:29 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 02:15:21 Europe/Moscow] Thu, 10 Dec 20 02:15:21 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 02:19:45 Europe/Moscow] Thu, 10 Dec 20 02:19:45 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 02:19:48 Europe/Moscow] Thu, 10 Dec 20 02:19:48 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 02:19:51 Europe/Moscow] Thu, 10 Dec 20 02:19:51 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:40:38 Europe/Moscow] Thu, 10 Dec 20 04:40:38 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:40:38 Europe/Moscow] Thu, 10 Dec 20 04:40:38 +0300 Function: logInUser User IP: 127.0.0.1 Неверный логин или пароль
+[10-Dec-2020 04:40:45 Europe/Moscow] Thu, 10 Dec 20 04:40:45 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:40:45 Europe/Moscow] Thu, 10 Dec 20 04:40:45 +0300 Function: logInUser User IP: 127.0.0.1 Пользователь успешно авторизован
+[10-Dec-2020 04:44:18 Europe/Moscow] Thu, 10 Dec 20 04:44:18 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:44:18 Europe/Moscow] Thu, 10 Dec 20 04:44:18 +0300 Function: logInUser User IP: 127.0.0.1 Пользователь успешно авторизован
+[10-Dec-2020 04:44:19 Europe/Moscow] Thu, 10 Dec 20 04:44:19 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:44:25 Europe/Moscow] Thu, 10 Dec 20 04:44:25 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:46:03 Europe/Moscow] Thu, 10 Dec 20 04:46:03 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:48:17 Europe/Moscow] Thu, 10 Dec 20 04:48:17 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:48:26 Europe/Moscow] Thu, 10 Dec 20 04:48:26 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:48:26 Europe/Moscow] Thu, 10 Dec 20 04:48:26 +0300 Function: editRoomerByStaff User IP: 127.0.0.1The request failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '88888734645' for key 'roomer.phone'
+[10-Dec-2020 04:50:34 Europe/Moscow] Thu, 10 Dec 20 04:50:34 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:50:34 Europe/Moscow] Thu, 10 Dec 20 04:50:34 +0300 Function: editRoomerByStaff User IP: 127.0.0.1The request failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '88888734645' for key 'roomer.phone'
+[10-Dec-2020 04:51:05 Europe/Moscow] Thu, 10 Dec 20 04:51:05 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:51:08 Europe/Moscow] Thu, 10 Dec 20 04:51:08 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:52:31 Europe/Moscow] Thu, 10 Dec 20 04:52:31 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 04:52:47 Europe/Moscow] Thu, 10 Dec 20 04:52:47 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[10-Dec-2020 09:55:04 Europe/Moscow] Thu, 10 Dec 20 09:55:04 +0300 Function: connection User IP: 127.0.0.1 Successful connection to database
+[22-Feb-2021 02:21:33 Europe/Moscow] Mon, 22 Feb 21 02:21:33 +0300 Function: connection User IP: 127.0.0.1 Failed to connect to database
+[22-Feb-2021 02:21:35 Europe/Moscow] Mon, 22 Feb 21 02:21:35 +0300 Function: connection User IP: 127.0.0.1 Failed to connect to database
+[22-Feb-2021 02:21:58 Europe/Moscow] Mon, 22 Feb 21 02:21:58 +0300 Function: connection User IP: 127.0.0.1 Failed to connect to database
+[22-Feb-2021 02:22:00 Europe/Moscow] Mon, 22 Feb 21 02:22:00 +0300 Function: connection User IP: 127.0.0.1 Failed to connect to database

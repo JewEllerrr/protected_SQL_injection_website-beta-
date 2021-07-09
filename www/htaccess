@@ -1,0 +1,4 @@
+Order Allow,Deny
+Deny from all
+RewriteEngine On
+RewriteRule ^([a-z]+)/([a-z]+)/([0-9]+)/$ /?controller=$1&action=$2&id=$3&%{QUERY_STRING} [NS,L]
